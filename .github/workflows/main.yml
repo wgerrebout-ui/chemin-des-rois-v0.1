@@ -62,5 +62,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: cheminrois-apk
-          path:
-          bin/*.apk
+          path: bin/*.apk
